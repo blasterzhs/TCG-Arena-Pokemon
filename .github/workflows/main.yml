@@ -18,9 +18,6 @@ jobs:
         with:
           node-version: 20
 
-      - name: Fetch all cards (db.json)
-        run: node Script_Update_PokemonDB.js
-
       - name: Format cards (PokemonCards.json)
         run: node Script_Pokemon.js
 
