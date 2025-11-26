@@ -1,9 +1,9 @@
-#TCG Arena - Pokemon mod#
+# TCG Arena - Pokemon mod
 
 All the data used to play Pokemon on TCG-Arena.fr
 Card data from https://github.com/PokemonTCG/pokemon-tcg-data
 
-###Contribute###
+### Contribute
 
 To add a new set:
 - Download the .json on the pokemon-tcg-data Github from Cards/en
