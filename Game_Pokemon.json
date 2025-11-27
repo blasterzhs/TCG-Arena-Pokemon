@@ -49,6 +49,43 @@
       },
       "defaultNotes": "",
       "tokens": [],
+      "draggableTokens": [
+        {
+          "id": "Asleep",
+          "name": "Asleep token",
+          "image": "https://valcur.github.io/TCG-Arena-Pokemon/Images/Tokens/Asleep.png"
+        },
+        {
+          "id": "Burned",
+          "name": "Burned token",
+          "image": "https://valcur.github.io/TCG-Arena-Pokemon/Images/Tokens/Burned.png"
+        },
+        {
+          "id": "Fainted",
+          "name": "Fainted token",
+          "image": "https://valcur.github.io/TCG-Arena-Pokemon/Images/Tokens/Fainted.png"
+        },
+        {
+          "id": "Frozen",
+          "name": "Frozen token",
+          "image": "https://valcur.github.io/TCG-Arena-Pokemon/Images/Tokens/Frozen.png"
+        },
+        {
+          "id": "Paralysis",
+          "name": "Paralysis token",
+          "image": "https://valcur.github.io/TCG-Arena-Pokemon/Images/Tokens/Paralysis.png"
+        },
+        {
+          "id": "Poisoned",
+          "name": "Poisoned token",
+          "image": "https://valcur.github.io/TCG-Arena-Pokemon/Images/Tokens/Poisoned.png"
+        },
+        {
+          "id": "BadPoisoned",
+          "name": "Badly poisoned token",
+          "image": "https://valcur.github.io/TCG-Arena-Pokemon/Images/Tokens/BadPoisoned.png"
+        }
+      ],
       "countersStartingValues": [
         0
       ],
@@ -91,7 +128,9 @@
                 },
                 {
                   "section": "Bench",
-                  "style": { "marginTop": "0.35rem" }
+                  "style": {
+                    "marginTop": "0.35rem"
+                  }
                 }
               ],
               "isSymetricalForOpponents": false
